@@ -25,7 +25,7 @@ const carSeed = [
       make: "Oldsmobile",  
       model: "Rocket",
       img: "https://assets3.thrillist.com/v1/image/1679766/1584x3000/scale;jpeg_quality=60.jpg",
-      description: "Silver Pontiac Rocket 88",
+      description: "Silver Rocket 88",
     },
 ];
 
